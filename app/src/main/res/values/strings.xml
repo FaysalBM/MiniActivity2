@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MiniActivity2</string>
+    <string name="hello_world">Hello world</string>
+    <string name="enter_word">Enter the word:</string>
+    <string name="word_input">Bye</string>
+    <string name="enter_num">Enter number of repetitions:</string>
+    <string name="num_input">3</string>
+    <string name="go_button">Go next Screen</string>
 </resources>
