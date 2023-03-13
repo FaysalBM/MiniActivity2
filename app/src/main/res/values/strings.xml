@@ -6,4 +6,6 @@
     <string name="enter_num">Enter number of repetitions:</string>
     <string name="num_input">3</string>
     <string name="go_button">Go next Screen</string>
+    <string name="go_back">Thanks for using the app</string>
+    <string name="exit_text">Return</string>
 </resources>
