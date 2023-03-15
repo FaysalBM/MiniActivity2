@@ -2,10 +2,10 @@
     <string name="app_name">MiniActivity2</string>
     <string name="hello_world">Hello world</string>
     <string name="enter_word">Enter the word:</string>
-    <string name="word_input">Bye</string>
+    <string name="word_input">Bye Message</string>
     <string name="enter_num">Enter number of repetitions:</string>
-    <string name="num_input">3</string>
-    <string name="go_button">Go next Screen</string>
-    <string name="go_back">Thanks for using the app</string>
+    <string name="num_input">0</string>
+    <string name="go_button">GO TO BYE SCREEN</string>
+    <string name="go_back">GO BACK</string>
     <string name="exit_text">Return</string>
 </resources>
