@@ -11,7 +11,7 @@
         android:layout_width="238dp"
         android:layout_height="81dp"
         android:layout_marginStart="4dp"
-        android:text="@string/exit_text"
+        android:text="@string/word_input"
         android:textAlignment="textStart"
         app:layout_constraintBottom_toTopOf="@+id/backButton"
         app:layout_constraintStart_toStartOf="parent"
